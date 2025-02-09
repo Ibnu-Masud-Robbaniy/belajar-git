@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    display: block;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(94, 38, 0);
+    color: honeydew;
+    padding: 10px;
+    height: 200px;
+}
+
+.header {
+    display:block;
+    border: 3px solid white;
+    color: yellow;
+    padding: 3px;
+    margin: 10px;
+}
+
+.footer {
+    background-color: white;
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    height: 100px;
+}
