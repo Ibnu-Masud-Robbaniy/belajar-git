@@ -4,15 +4,16 @@
 }
 
 body {
-    background-color: black;
+    background-image: url(logo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .container {
     display: block;
     justify-content: center;
     text-align: center;
-    background-color: rgb(94, 38, 0);
-    color: honeydew;
+    color: black;
     padding: 10px;
     height: 200px;
 }
@@ -26,7 +27,7 @@ body {
 }
 
 .footer {
-    background-color: white;
+    /* background-color: white; */
     color: black;
     display: block;
     text-align: center;
